@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:ignore="MissingTranslation"
+>
+
+	<string name="dots">Dots</string>
+
+	<string name="database_ueb">UEB</string>
+	<string name="database_ueb_desc">Unified English Braille - Modern standard for all English speaking countries</string>
+
+	<string name="database_swedish">Swedish</string>
+	<string name="database_swedish_desc">Standard for Swedish</string>
+
+	<string name="database_czech">Czech</string>
+	<string name="database_czech_desc">Standard for Czech</string>
+
+	<string name="database_slovak">Slovak</string>
+	<string name="database_slovak_desc">Standard for Slovak</string>
+
+	<string name="database_tamil">Tamil</string>
+	<string name="database_tamil_desc">Standard for Tamil</string>
+
+	<string name="database_spanish">Spanish</string>
+	<string name="database_spanish_desc">Standard for Spanish</string>
+
+
+	<string name="braille_number_sign">Number Sign</string>
+	<string name="braille_decimal_point">Decimal Point</string>
+	<string name="braille_thousands_separator">Thousands Separator</string>
+	<string name="braille_fullstop">Full Stop</string>
+	<string name="braille_comma">Comma</string>
+	<string name="braille_colon">Colon</string>
+	<string name="braille_semicolon">Semicolon</string>
+	<string name="braille_apostrophe">Apostrophe</string>
+	<string name="braille_questionmark">Question Mark</string>
+	<string name="braille_questionmark_inverse">Inverted Question Mark</string>
+	<string name="braille_exclamationmark">Exclamation Mark</string>
+	<string name="braille_exclamationmark_inverse">Inverted Exclamation Mark</string>
+	<string name="braille_hyphen">Hyphen</string>
+	<string name="braille_slash">Slash</string>
+	<string name="braille_openbracket">Open Bracket</string>
+	<string name="braille_closebracket">Close Bracket</string>
+	<string name="braille_openquote">Open Quote</string>
+	<string name="braille_closequote">Close Quote</string>
+	<string name="braille_quote">Quote Mark</string>
+	<string name="braille_capital">Capital Sign</string>
+	<string name="braille_capitalword">All Caps Sign</string>
+	<string name="braille_lettersign">Letter Sign</string>
+	<string name="braille_asterisk">Asterisk</string>
+	<string name="braille_space">Space</string>
+	<string name="braille_percent">Percent</string>
+	<string name="braille_permille">Permille</string>
+	<string name="braille_cent">Cent</string>
+	<string name="braille_dollar">Dollar</string>
+	<string name="braille_euro">Euro</string>
+	<string name="braille_poundsterling">Pound Sterling</string>
+	<string name="braille_yen">Yen</string>
+	<string name="braille_degree">Degree</string>
+	<string name="braille_ampersand">Ampersand</string>
+	<string name="braille_copyright">Copyright</string>
+	<string name="braille_rights_reserved">Rights Reserved</string>
+	<string name="braille_tm">TM</string>
+	<string name="braille_dash">Dash</string>
+	<string name="braille_opensquarebracket">Open Square Bracket</string>
+	<string name="braille_closesquarebracket">Close Square Bracket</string>
+	<string name="braille_opencurlybrace">Open Brace</string>
+	<string name="braille_closecurlybrace">Close Brace</string>
+	<string name="braille_paragraph">Paragraph</string>
+	<string name="braille_dagger">Dagger</string>
+	<string name="braille_hash">Hash</string>
+	<string name="braille_at">At</string>
+	<string name="braille_backslash">Blackslash</string>
+	<string name="braille_underscore">Underscore</string>
+	<string name="braille_pipe">Pipe</string>
+	<string name="braille_tilde">Tilde</string>
+	<string name="braille_bullet">Bullet</string>
+	<string name="braille_bullet_white">White Bullet</string>
+	<string name="braille_bullet_square">Square Bullet</string>
+	<string name="braille_less_than">Less than</string>
+	<string name="braille_greater_than">Greater than</string>
+	<string name="braille_add">Add</string>
+	<string name="braille_equal">Equal</string>
+	<string name="braille_multiply_dot">Dot Product</string>
+	<string name="braille_multiply_cross">Cross Product</string>
+	<string name="braille_divide_line">Divide Line</string>
+	<string name="braille_root">Root</string>
+
+	<string name="braille_dots5">Dots5</string>
+	<string name="braille_dots45">Dots45</string>
+	<string name="braille_dots456">Dots456</string>
+	<string name="braille_dots46">Dots46</string>
+	<string name="braille_dots56">Dots56</string>
+
+	<string name="braille_unknown" translatable="false">�</string>
+
+
+	<string name="symbol_unknown" translatable="false"></string>
+	<string name="symbol_unknown_desc" translatable="false"></string>
+	<string name="symbol_letter">Alphabet</string>
+	<string name="symbol_letter_desc">The letters - most braille texts just use these!</string>
+	<string name="symbol_invisible" translatable="false"></string>
+	<string name="symbol_invisible_desc" translatable="false"></string>
+	<string name="symbol_punctuation">Punctuation</string>
+	<string name="symbol_punctuation_desc">Beware: not all braille symbols are made up of a single cell! Some punctuation symbols need 2!</string>
+	<string name="symbol_number">Numbers</string>
+	<string name="symbol_number_desc">Cells following a Number Sign are read as numbers! The letters \'a\' - \'i\' correspond to \'1\' - \'9\', and \'j\' is \'0\'.</string>
+	<string name="symbol_maths">Maths</string>
+	<string name="symbol_maths_desc">Used to represent mathematical symbols!</string>
+
+	<string name="symbol_wordsign">Wordsigns</string>
+	<string name="symbol_wordsign_desc">Wordsigns represent common words, and are often represented by the cell of their first letter(s)! They can usually only be used when standing alone (surrounded by spaces on both sides).</string>
+	<string name="symbol_groupsign">Groupsigns</string>
+	<string name="symbol_groupsign_desc">Groupsigns represent common letter groups! They can usually be used wherever the group appears, but there are some exceptions! Tap on any entry for more information.</string>
+	<string name="symbol_initiallettercontraction">Initial-letter Contractions</string>
+	<string name="symbol_initiallettercontraction_desc">These contractions are made up of 2 cells, with the second cell usually representing the first letter(s)! Some of these have strange usage rules, so beware! Tap on any entry for more information.</string>
+	<string name="symbol_finallettercontraction">Final-letter Contractions</string>
+	<string name="symbol_finallettercontraction_desc">These contractions are made up of 2 cells, with the second cell usually representing the last letter(s)! They can generally be used anywhere except at the start of a word.</string>
+	<string name="symbol_shortform">Shortforms</string>
+	<string name="symbol_shortform_desc">Shortforms allow you to abbreviate common words by missing out some letters! They can generally only be used when standing alone.</string>
+
+	<string name="category_contractions">Contractions</string>
+	<string name="category_advancedcontractions">Advanced Contractions</string>
+
+	<string name="symbol_short1">Short-Write Level 1</string>
+	<string name="symbol_short1_desc">Standard for Swedish texts is to use full write. If there is information about a text (meta-data) then it usually says if full write or short write is used.</string>
+	<string name="category_short2">Short-Write Level 2</string>
+	<string name="symbol_short2a">Short-Write Level 2A</string>
+	<string name="symbol_short2a_desc">These symbols represent common words, but in more than 1 cell!</string>
+	<string name="symbol_short2b">Short-Write Level 2B</string>
+	<string name="symbol_short2b_desc">These represent common sounds within words!</string>
+	<string name="symbol_short2c">Short -Write Level 2C</string>
+	<string name="symbol_short2c_desc">These represent abbreviations of common phrases!</string>
+	<string name="symbol_foreign">Foreign</string>
+	<string name="symbol_foreign_desc">These symbols are used to represent letters used in other languages!</string>
+
+
+	<string name="braille_groupsigncontraction">Groupsign Contraction</string>
+	<string name="braille_wordsigncontraction">Wordsign Contraction</string>
+	<string name="braille_letter">Letter</string>
+	<string name="braille_number">Number</string>
+	<string name="braille_advancedcontraction">Advanced Contraction</string>
+	<string name="braille_shortform">Shortform</string>
+
+	<string name="symbol_uyir">Uyir Alphabet</string>
+	<string name="symbol_uyir_desc">The 12 vowels of Tamil, along with the special character Ayutha Ezhuthu</string>
+	<string name="symbol_uyirmei1">Uyirmei Alphabet Level 1</string>
+	<string name="symbol_uyirmei1_desc">The first set of compound letters, formed by the combination of Uyir Ezhuthukal (vowels) and Mei Ezhuthukal (consonants)</string>
+	<string name="symbol_mei">Mei Alphabet</string>
+	<string name="symbol_mei_desc">The 18 consonants of Tamil</string>
+	<string name="symbol_uyirmei2">Uyirmei Alphabet Level 2</string>
+	<string name="symbol_uyirmei2_desc">The remaining set of compound letters, formed by the combination of Uyir Ezhuthukal (vowels) and Mei Ezhuthukal (consonants)</string>
+	<string name="symbol_grantha">Grantha Alphabet</string>
+	<string name="symbol_grantha_desc">TODO</string>
+
+
+
+	<string name="numbersExplanation">The Number Sign sets <b>\'Numeric Mode\'</b> for the remainder of the sentence.\n\nThis means that all Braille characters after the Number
+		Sign should be read as numbers until Numeric Mode ends.\n\nNumeric Mode is ended by spaces, the Letter Sign or any other character not shown in the numbers dictionary.
+	</string>
+	<string name="lettersignExplanation">Some Braille characters can have more than one meaning; an uncontracted meaning and a contracted or numerical meaning.\n\nIn cases where
+		this may be confusing for the reader, the <b>\'Uncontracted Indicator\'</b> (Letter Sign) is placed before the character to set <b>\'Uncontracted Mode\'</b>.\n\nThis tells
+		the reader that the next symbol is not a contraction or a numeric value; it should be read as a letter or punctuation.
+	</string>
+	<string name="capitalsignExplanation">The next letter to come after a <b>\'Capitalisation Indicator\'</b> (Capital Sign) is a capital letter.\n\nThe use of the Capital Sign
+		sets <b>\'Capitals Mode\'</b>, which ends after the first letter.\n\nFor contractions, only the first letter in the contraction is capitalised.
+	</string>
+	<string name="capitalwordExplanation">The <b>Capitals Word Indicator</b> sets <b>\'Capitals Mode\'</b> for a whole word, after which it ends.\n\nThis means that the entire
+		following word is capitalised.
+	</string>
+
+	<string name="theContraction">The contraction \'</string>
+
+	<string name="rule_anywhere">\' can be used wherever the characters occur</string>
+	<string name="rule_standAlone">\' can only be used when standing alone</string>
+	<string name="rule_notAtStart">\' cannot be used at the start of a word</string>
+	<string name="rule_firstSyllable">\' can only be used when it forms the first syllable of a word</string>
+	<string name="rule_surrounded">\' can only be used when surrounded by other letters</string>
+	<string name="rule_wordMeaningRetained">\' can only be used when the meaning of the original word is retained</string>
+	<string name="rule_short_A">\' can only be used when the \'a\' is short</string>
+	<string name="rule_stressFirst_E_AndDontFollow_I_Or_E">\' can only be used when the stress is on the first \'e\', and it does not follow the letters \'i\' or \'e\'</string>
+	<string name="rule_oneSyllable">\' can only be used when the letters it represents are pronounced as one syllable</string>
+	<string name="rule_oneSyllableOr_ONEY_NotAfter_O">\' can only be used when the letters it represents are pronounced as one syllable, or are used to end a word with the letters
+		\'oney\'. It cannot ever be used after the letter \'o\'
+	</string>
+	<string name="rule_samePronounciation">\' can only be used when the letters it represents are pronounced in the same way as in the original word</string>
+	<string name="rule_dontFollow_A_Or_O_And_UN_notPrefix">\' can only be used when the letters it represents do not follow the letters \'a\' or \'o\', and the letters \'un\' do
+		not form a prefix
+	</string>
+	<string name="rule_optionalSurroundedPlainBothSides">\' can be used when or when surrounded either at the start, or at the end, or at both, with non-short-write symbols
+	</string>
+	<string name="rule_optionalSurroundedPlainStart">\' can be used when preceded by non-short-write symbols</string>
+	<string name="rule_optionalSurroundedPlainStart_standalone">\' can be used when preceded by non-short-write symbols, or when standing alone</string>
+
+
+
+</resources>

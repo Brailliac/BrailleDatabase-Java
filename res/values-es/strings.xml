@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- for Spanish -->
+
+	<string name="database_ueb">UEB</string>
+	<string name="database_swedish">Sueco</string>
+
+	<string name="database_ueb_desc">Braille Ingl\u00E9s Unificado(UEB) - Est\u00E1ndar moderno para todos los pa\u00EDses de habla inglesa</string>
+	<string name="database_swedish_desc">Est\u00E1ndar en Suecia</string>
+
+	<string name="braille_number_sign">Signo de N\u00FAmero</string>
+	<string name="braille_decimal_point">Punto Deciaml</string>
+	<string name="braille_thousands_separator">Separador de Miles</string>
+	<string name="braille_fullstop">Punto</string>
+	<string name="braille_comma">Coma</string>
+	<string name="braille_colon">Dos puntos</string>
+	<string name="braille_semicolon">Punto y coma</string>
+	<string name="braille_apostrophe">Ap\u00F3strofe</string>
+	<string name="braille_questionmark">Signo de Interrogaci\u00F3n</string>
+	<string name="braille_exclamationmark">Signo de Exclamaci\u00F3n</string>
+	<string name="braille_hyphen">Gui\u00F3n</string>
+	<string name="braille_slash">Barra</string>
+	<string name="braille_openbracket">Par\u00E9ntesis Abierto</string>
+	<string name="braille_closebracket">Par\u00E9ntesis Cerrado</string>
+	<string name="braille_openquote">Abrir Comillas</string>
+	<string name="braille_closequote">Cerrar Comillas</string>
+	<string name="braille_capital">Signo de May\u00FAscula</string>
+	<string name="braille_capitalword">Signo de Palabra May\u00FAscula</string>
+	<string name="braille_lettersign">Signo de Letra</string>
+	<string name="braille_asterisk">Asterisco</string>
+	<string name="braille_space">Espacio</string>
+
+	<string name="braille_dots5">Puntos5</string>
+	<string name="braille_dots45">Puntos45</string>
+	<string name="braille_dots456">Puntos456</string>
+	<string name="braille_dots46">Puntos46</string>
+	<string name="braille_dots56">Puntos56</string>
+
+	<string name="numbersExplanation">El Signo de N\u00FAmero establece <b>\'Modo Nmum\u00E9rico\'</b> para el resto de la frase.\n\n\u00E9sto quiere decir que todos los caracteres Braille despu\u00E9s del Signo de N\u00FAmero deben leerse como n\u00FAmeros hasta el final del Modo Num\u00E9rico.\n\nEl Modo Num\u00E9rico acaba en espacios, el Signo de Letra u otro car\u00E1cter no mostrado en el diccionario de n\u00FAmeros.</string>
+	<string name="lettersignExplanation">Algunos caracteres Braille pueden tener m\u00E1s de un significado; un significado con contracci\u00F3n y uno con contracci\u00F3n o num\u00E9rico.\n\nEn casos donde sea confuso para el lector, , el <b>\'Signo Sin Contracci\u00F3n\'</b> (Signo de Letra) es colocado antes del car\u00E1cter <b>\'Modo Sin Contracci\u00F3n\'</b>.\n\n\u00E9sto cuenta al lector que el siguiente s\u00EDmbolo no es una contracci\u00F3n o un valor num\u00E9rico; debe ser le\u00EDdo como una letra o puntuaci\u00F3n.</string>
+	<string name="capitalsignExplanation">La siguiente letra despu\u00E9s de <b>\'Indicador de May\u00FAscula\'</b> (Signo de May\u00FAscula) Es un aletra may\u00FAscula.\n\n El uso del Signo de May\u00FAscula establece <b>\'Modo May\u00FAscula\'</b>,que acaba despu\u00E9s de la primera letra.\n\nPara contracciones, solo la primera letra de la contracci\u00F3n se coloca en may\u00FAscula.</string>
+
+	<string name="theContraction">La Contracci\u00F3n \'</string>
+
+	<!-- words used to generate random (but grammatically correct!!) sentences to translate. It works like: Subject + Verb + Object. To make it work in different languages, you might not be able to do literal translations, so you can choose your own words :) -->
+
+	<string name="braille_add">A\u00F1adir</string>
+	<string name="braille_ampersand">Ampersand</string>
+	<string name="braille_at">A</string>
+	<string name="braille_backslash">Barra invertida</string>
+	<string name="braille_bullet">Bullet</string>
+	<string name="braille_bullet_square">Square Bullet</string>
+	<string name="braille_bullet_white">White Bullet</string>
+	<string name="braille_cent">Cent</string>
+	<string name="braille_closecurlybrace">Cerrar llave</string>
+	<string name="braille_closesquarebracket">Cerrar corchete</string>
+	<string name="braille_copyright">Copyright</string>
+	<string name="braille_dagger">Daga</string>
+	<string name="braille_dash">Dash</string>
+	<string name="braille_degree">Grado</string>
+	<string name="braille_divide_line">Dividir l\u00EDneaG</string>
+	<string name="braille_dollar">Dolar</string>
+	<string name="braille_equal">Igual</string>
+	<string name="braille_euro">Euro</string>
+	<string name="braille_exclamationmark_inverse">Signo de exclamaci\u00F3n invertido</string>
+	<string name="braille_greater_than">Mayor que</string>
+	<string name="braille_hash">Hash</string>
+	<string name="braille_less_than">Menor que</string>
+	<string name="braille_multiply_cross">Producto(cruz)</string>
+	<string name="braille_multiply_dot">Producto(punto)</string>
+	<string name="braille_opencurlybrace">Abrir par\u00E9ntesis</string>
+	<string name="braille_opensquarebracket">Abrir corchete</string>
+	<string name="braille_paragraph">P\u00E1rrafo</string>
+	<string name="braille_percent">Porcentaje</string>
+	<string name="braille_permille">Permiso</string>
+	<string name="braille_pipe">tubo</string>
+	<string name="braille_poundsterling">Libras esterlinas</string>
+	<string name="braille_questionmark_inverse">Signo de interrogaci\u00F3n invertido</string>
+	<string name="braille_quote">Quote Mark</string>
+	<string name="braille_rights_reserved">Derechos reservados</string>
+	<string name="braille_root">Radical</string>
+	<string name="braille_tilde">Tilde</string>
+	<string name="braille_tm">TM</string>
+	<string name="braille_underscore">Underscore</string>
+	<string name="braille_yen">Yen</string>
+	<string name="capitalwordExplanation">El <b>indicador de palabra may\u00FAscula</b> establece <b>\'Modo May\u00FAscula\'</b> para una palabra entera, despu\u00E9s de la cual acaba.</string>
+	<string name="category_advancedcontractions">Contracciones Avanzadas</string>
+	<string name="category_contractions">Contracciones</string>
+	<string name="category_short2">Breve Nivel 2</string>
+	<string name="dots">Puntos</string>
+	<string name="rule_anywhere">\' can be used wherever the characters occur</string>
+	<string name="rule_dontFollow_A_Or_O_And_UN_notPrefix">\' solo puede ser usado cuando las letras que representan no van seguida por las letras \'a\' o \'o\', y las letras \'un\' no forman un prefijo</string>
+	<string name="rule_firstSyllable">\' solo puede ser usado cuando forma la primera s\u00EDlaba de una palabra</string>
+	<string name="rule_notAtStart">\' no puede ser usado al inicio de palabra</string>
+	<string name="rule_oneSyllable">\' solo puede ser usado cuando las letras que representa se pronuncian como una s\u00EDlaba</string>
+	<string name="rule_oneSyllableOr_ONEY_NotAfter_O">\' solo puede ser usado cuando las letras que representa se pronuncian como una s\u00EDlaba,o se usa para acabar una palabra con las letras \'oney\'.Nunca puede ser usado tras la letra \'o\'</string>
+	<string name="rule_optionalSurroundedPlainBothSides">\' no puede ser usada rodeado, o ambos, sides, with non-short-write symbols</string>
+	<string name="rule_optionalSurroundedPlainStart">\' puede ser usada when preceded by non-short-write symbols</string>
+	<string name="rule_samePronounciation">\' solo puede ser usado cuando las letras que representan se pronuncian como la palabra original</string>
+	<string name="rule_short_A">\' solo puede ser usada cuando la \'a\' es corta</string>
+	<string name="rule_standAlone">\' solo puede ser usada sola</string>
+	<string name="rule_stressFirst_E_AndDontFollow_I_Or_E">\' solo puede ser usada cuando el acento est\u00E1 en la primera \'e\', y no sigue a las letras \'i\' o \'e\'</string>
+	<string name="rule_surrounded">\' solo puede ser usada cuando est\u00E1 rodeada de otras letras</string>
+	<string name="rule_wordMeaningRetained">\' solo puede ser usada cuando el significado origianl se mantiene</string>
+	<string name="symbol_foreign">Extranjero</string>
+	<string name="symbol_letter">Alfabeto</string>
+	<string name="symbol_number">N\u00FAmeros</string>
+	<string name="symbol_punctuation">Puntuaci\u00F3n</string>
+	<string name="symbol_short1">Abreviatura nivel 1</string>
+	<string name="symbol_shortform">Formas cortas</string>
+
+</resources>

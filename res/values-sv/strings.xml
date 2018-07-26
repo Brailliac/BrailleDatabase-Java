@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- for Swedish -->
+
+	<string name="braille_number_sign">Siffertecken</string>
+    <string name="braille_decimal_point">Decimalkomma</string> <!-- comma -->
+    <string name="braille_thousands_separator">Tusenseparator</string>
+    <string name="braille_fullstop">Fullt Stopp</string>
+    <string name="braille_comma">Komma</string>
+    <string name="braille_colon">Kolon</string>
+    <string name="braille_semicolon">Semicolon</string>
+    <string name="braille_apostrophe">Apostrof</string>
+    <string name="braille_questionmark">Frågetecken</string>
+    <string name="braille_exclamationmark">Utropstecken</string>
+    <string name="braille_hyphen">Bindestreck</string>
+    <string name="braille_slash">Snedstreck</string>
+    <string name="braille_openbracket">Vänster parentes</string>
+    <string name="braille_closebracket">Höger parentes</string>
+    <string name="braille_openquote">Vänster citattecken</string>
+    <string name="braille_closequote">Höger citattecken</string>
+    <string name="braille_capital">Versaltecken</string>
+    <string name="braille_capitalword">Versaltecken ord</string>
+	<string name="braille_lettersign">Bokstavstecken</string>
+	<string name="braille_asterisk">Stjärna</string>
+    <string name="braille_space">Mellanslag</string>
+
+    <string name="braille_dots5">Dots5</string>
+    <string name="braille_dots45">Dots45</string>
+    <string name="braille_dots456">Dots456</string>
+    <string name="braille_dots46">Dots46</string>
+    <string name="braille_dots56">Dots56</string>
+
+	<string name="numbersExplanation">Med nummertecknet går du in i <b>\'numeriskt läge\'</b> för resten av meningen.\n\nDet betyder att alla tecken efter nummertecknet ska läsas som siffror tills nummerläget avslutas.\n\nNumeriskt läge avslutas med mellanslag, bokstavstecknet eller vilket tecken som helst som inte finns i nummerläget.</string>
+    <string name="lettersignExplanation">Några Brailletecken kan ha mer än en betydelse; de kan finnas i en icke sammandragen mening eller i en sammandragen mening eller som siffror.\n\nI de lägen då detta kan vara otydligt för läsaren så används <b>\'Uncontracted Indicator\'</b> (Bokstavstecken) placeras före tecknet för att få <b>\'Normalt Läge\'</b>.\n\nDet här berättar för läsaren att nästa tecken inte är en sammandragning eller siffror; det ska läsas som bokstäver eller skiljetecken.</string>
+    <string name="capitalsignExplanation">Tecknet som kommer efter ett <b>\'Versaltecken\'</b> är en versal.\n\nMed versaltecknet går du in i <b>\'Versalläge\'</b>, och det slutar efter första bokstaven.\n\nMed kortskrift så är det bara första tecknet som är en versal.</string>
+    <string name="capitalwordExplanation">Med <b>Versalordstecknet</b> får du <b>\'Versalläge\'</b> för ett helt ord, och sedan avslutas läget.\n\nDet här betyder att hela ordet är i versaler.</string>
+
+	<string name="theContraction">Sammandragningen \'</string>
+    <string name="rule_anywhere">\' kan användas över allt där tecknen förekommer</string>
+    <string name="rule_standAlone">\' kan bara anändas enskilt</string>
+    <string name="rule_notAtStart">\' kan användas i början av ett ord</string>
+    <string name="rule_firstSyllable">\' kan bara användas som första bokstav i ett ord</string>
+    <string name="rule_surrounded">\' kan bara användas när är omslutet av andra bokstäver</string>
+    <string name="rule_wordMeaningRetained">\' kan bara användas när betydelsen av originalordet är densamma</string>
+    <string name="rule_short_A">\' kan bara användas när \'a\' betonas kort</string>
+    <string name="rule_stressFirst_E_AndDontFollow_I_Or_E">\' kan bara använas när betoningen är på första \'e\', och det inte kommer efter bokstäverna \'i\' eller \'e\'</string>
+    <string name="rule_oneSyllable">\' kan bara användas när bokstäverna den representerar uttalas som en stavelse</string>
+    <string name="rule_oneSyllableOr_ONEY_NotAfter_O">\' kan bara användas när bokstäverna den representerar uttalas som en stavelse, eller används för att avsluta ett ord med bokstäverna \'oney\'. Det kan aldrig användas efter bokstäverna \'o\'</string>
+    <string name="rule_samePronounciation">\' kan bara användas när bokstäverna det representerar uttalas på samma sätt som originalordet</string>
+	<string name="rule_dontFollow_A_Or_O_And_UN_notPrefix">\' kan bara användas när bokstäverna det representerar inte kommer efter bokstäverna \'a\' eller \'o\', och bokstäverna \'un\' inte formar ett prefix</string>
+
+	<string name="rule_optionalSurroundedPlainBothSides">\' kan användas omgiven på ena eller båda sidor av vanliga tecken</string>
+	<string name="rule_optionalSurroundedPlainStart">\' kan användas när den föregås av ett vanligt tecken</string>
+    <string name="rule_optionalSurroundedPlainStart_standalone">\' kan användas enskilt, eller när den föregås av ett vanligt tecken</string>
+
+	<!-- words used to generate random (but grammatically correct!!) sentences to translate. It works like: Subject + Verb + Object. To make it work in different languages, you might not be able to do literal translations, so you can choose your own words :) -->
+
+	<string name="braille_add">Lägg till</string>
+    <string name="braille_ampersand">Och-tecken</string>
+    <string name="braille_at">Snabel-A</string>
+    <string name="braille_backslash">Omvänt snedstreck</string>
+    <string name="braille_bullet">Listtecken Kula</string>
+    <string name="braille_bullet_square">Fyrkantig Punkt</string>
+    <string name="braille_bullet_white">Vit Punkt</string>
+    <string name="braille_cent">Centtecken</string>
+    <string name="braille_closecurlybrace">Höger Klammerparentes</string> <!-- } -->
+    <string name="braille_closesquarebracket">Höger Hakparentes</string> <!-- ] -->
+    <string name="braille_copyright">Copyrighttecken</string>
+    <string name="braille_dagger">Kors</string> <!-- † -->
+    <string name="braille_dash">Snedstreck</string>
+    <string name="braille_degree">Grader</string>
+    <string name="braille_divide_line">Divide Line</string>
+    <string name="braille_dollar">Dollartecken</string>
+    <string name="braille_equal">Likhetstecken</string>
+    <string name="braille_euro">Eurotecken</string>
+    <string name="braille_exclamationmark_inverse">Inverterat utropstecken</string> <!-- Note that a normal ! are used before a statement phrase in spanish -->
+    <string name="braille_greater_than">Större än</string>
+    <string name="braille_hash">Hash-tecknet</string>
+    <string name="braille_less_than">Mindre än</string>
+    <string name="braille_multiply_cross">Multiplikationstecken (kryss)</string>
+    <string name="braille_multiply_dot">Multiplikationstecken (punkt)</string>
+    <string name="braille_opencurlybrace">Vänster Klammerparentes</string> <!-- { -->
+    <string name="braille_opensquarebracket">Vänster Hakparentes</string> <!-- [ -->
+    <string name="braille_paragraph">Paragraftecken</string>
+    <string name="braille_percent">Procent</string>
+    <string name="braille_permille">Promille</string>
+    <string name="braille_pipe">Lodstreck</string>
+    <string name="braille_poundsterling">Pundtecken</string>
+    <string name="braille_questionmark_inverse">Inverterat frågetecken</string> <!-- Note that a normal ? are used before a question phrase in spanish -->
+    <string name="braille_quote">Citattecken</string> <!-- " -->
+    <string name="braille_rights_reserved">Registreringstecken</string>
+    <string name="braille_root">Rottecknet</string>
+    <string name="braille_tilde">Tilde fristående</string> <!-- Tilde stand alone (Tilde fristående) (45,25) or tilde above letter (Tilde över bokstav) (346,25)-->
+    <string name="braille_tm">Trade Mark-tecken</string>
+    <string name="braille_underscore">Understreck</string>
+    <string name="braille_yen">Yentecken</string>
+    <string name="category_advancedcontractions">Avancerade sammandragningar</string>
+    <string name="category_contractions">Sammandragningar</string>
+    <string name="category_short2">Kortskrift Nivå 2</string>
+	<string name="database_swedish">Svenska</string>
+    <string name="database_swedish_desc">Standard i Sverige</string>
+    <string name="database_ueb">UEB</string>
+    <string name="database_ueb_desc">Unified English Braille - Modern standard för alla Engelsk-språkiga länder</string>
+	<string name="dots">Punkter</string>
+	<string name="symbol_foreign">Utländska tecken</string>
+	<string name="symbol_letter">Alfabetet</string>
+	<string name="symbol_number">Siffror</string>
+	<string name="symbol_punctuation">Skiljetecken</string>
+	<string name="symbol_short1">Kortskrift Nivå 1</string>
+	<string name="symbol_shortform">Kortskrift</string>
+
+</resources>
