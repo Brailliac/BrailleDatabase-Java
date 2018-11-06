@@ -27,4 +27,4 @@ If you need any information, please contact me at brailletutorapp@gmail.com
 
 # Kotlin
 
-I will eventually port this database to Kotlin, for use in web development.
+I will eventually port this database to a Kotlin DSL, to abstract away the technical code.
