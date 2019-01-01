@@ -1,4 +1,7 @@
-# BrailleDatabase
+# BrailleDatabase - Java
+
+This is no longer maintained. Future work will be done exclusively on the Kotlin version (https://github.com/Brailliac/BrailleDatabaseKotlin)
+
 Java database of Braille codes, and associated data and utility classes.
 Includes bi-directional translator.
 
@@ -27,4 +30,4 @@ If you need any information, please contact me at brailletutorapp@gmail.com
 
 # Kotlin
 
-I will eventually port this database to a Kotlin DSL, to abstract away the technical code.
+The Kotlin version of the database is written using a Kotlin DSL - so is much easier to read and contribute to. It can be found here: https://github.com/Brailliac/BrailleDatabaseKotlin
